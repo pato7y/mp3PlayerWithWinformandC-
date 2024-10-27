@@ -1,18 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#practice\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|d:\\c#practice\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|d:\\c#practice\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|d:\\c#practice\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|d:\\c#practice\\proje\\mp3playerwithwinformandc-\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4741C0-F878-4EBA-AFFC-E8E74C1C57BF}|WindowsFormsApp1.csproj|d:\\c#practice\\proje\\mp3playerwithwinformandc-\\windowsformsapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +28,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsFormsApp1",
+              "DocumentMoniker": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.csproj",
+              "ToolTip": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeToolTip": "WindowsFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T21:34:41.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\c#practice\\WindowsFormsApp1\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\c#practice\\WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwIkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T20:32:52.72Z",
               "EditorCaption": ""
@@ -41,22 +63,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\c#practice\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\c#practice\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAlwB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwEAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:58:37.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\c#practice\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\c#practice\\WindowsFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "D:\\c#practice\\proje\\mp3PlayerWithWinformandC-\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:52:47.617Z",
